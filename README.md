@@ -1,2 +1,6 @@
 # SDLC
 A collection of work done throughout my Software Development Lifecycle course.
+
+Reflection
+
+Throughout this course I took on the various roles in the scrum development team, in order to complete a deliverable for a mock company. Building out a deliverable product that implements the users wants and needs is an important process to the agile-scrum methodology. In order to correctly convery the wants and needs of the user to the development teams, the product owner held a focus group with previous customers in order to get concerns or wnated features. As a product owner I then created user stories that encapsulate the wants and needs of the customers and users of the product to further help the development team. I normally would unconsiously develop in a waterfall environment by trying to plan every single thing out, and wait to ask for user input, but using the aglie methods throughout this course like developing in iterations and allowing for customer input early on I will be able to develop in a higher quality in the future. Being a good team member in an agile environment means to keep and open mind, open communication, and being responsible to carry out your members roles in time.
